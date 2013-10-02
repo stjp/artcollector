@@ -30,3 +30,7 @@ i.e. something that looks like:
 The highest quality images will be saved to the directory 
 you choose.
 
+DEPENDENCIES:
+BeautifulSoup:
+http://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup
+
